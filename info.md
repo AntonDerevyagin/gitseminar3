@@ -14,3 +14,5 @@
 >git checkout master – вернуться к актуальному состоянию и продолжить работу
 
 >git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+
+![](https://blog.facialix.com/wp-content/uploads/2021/03/what-is-git-most-useful-git-commands.jpg)
