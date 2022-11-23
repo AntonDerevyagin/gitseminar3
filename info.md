@@ -25,6 +25,8 @@
 
 >git commit -am 'message' - 'git add .' + git commit -m 'message'
 
-
-
 > git checkout 'branch_name' - переход на другую ветку с именем 'branch_name'
+
+> git checkout -b 'branch_name' - создание новой ветки и переход на нее
+
+> git branch -d 'branch_name' - удалениее ветки
