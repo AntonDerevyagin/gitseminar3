@@ -47,3 +47,5 @@
 > * Строка – ненумерованные списки, символ “*” в начале строки
 
 ![](https://bestcube.space/wp-content/uploads/FotorCreated-47.jpg)
+
+##Спасибо за внимание!
