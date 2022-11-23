@@ -24,3 +24,7 @@
 > git branch "branch_name" - создание ветки с названием branch_name 
 
 >git commit -am 'message' - 'git add .' + git commit -m 'message'
+
+
+
+> git checkout 'branch_name' - переход на другую ветку с именем 'branch_name'
