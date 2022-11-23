@@ -30,3 +30,5 @@
 > git checkout -b 'branch_name' - создание новой ветки и переход на нее
 
 > git branch -d 'branch_name' - удалениее ветки
+
+> git log --graph
