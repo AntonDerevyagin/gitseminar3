@@ -49,3 +49,4 @@
 ![](https://bestcube.space/wp-content/uploads/FotorCreated-47.jpg)
 
 ##Спасибо за внимание!
+ #Основные команды 3 семинара 
